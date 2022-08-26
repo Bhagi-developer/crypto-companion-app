@@ -15,12 +15,14 @@ Click on that post, it will guide you to use "Expo Go" application in which we c
 
 ## following are some of the screenshots from this application,
 • Home screen
+
 ![homescreen](https://user-images.githubusercontent.com/83909096/186800146-39c99ae1-8ccc-4899-8985-67abc0a98f71.jpg)
 
 • Explore Screen
 ![explorescreen](https://user-images.githubusercontent.com/83909096/186800216-12a2b842-d87d-491b-a91f-b8c91eb11746.jpg)
 
 • Descriptive coin data screen
+
 ![DescriptiveCoinDatascreen](https://user-images.githubusercontent.com/83909096/186800293-e93b7bd1-9a6c-4f1b-b36b-3cd0b1b373e8.jpg)
 
 • Drawer Content
