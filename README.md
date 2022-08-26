@@ -19,6 +19,7 @@ Click on that post, it will guide you to use "Expo Go" application in which we c
 ![homescreen](https://user-images.githubusercontent.com/83909096/186800146-39c99ae1-8ccc-4899-8985-67abc0a98f71.jpg)
 
 • Explore Screen
+
 ![explorescreen](https://user-images.githubusercontent.com/83909096/186800216-12a2b842-d87d-491b-a91f-b8c91eb11746.jpg)
 
 • Descriptive coin data screen
@@ -26,10 +27,15 @@ Click on that post, it will guide you to use "Expo Go" application in which we c
 ![DescriptiveCoinDatascreen](https://user-images.githubusercontent.com/83909096/186800293-e93b7bd1-9a6c-4f1b-b36b-3cd0b1b373e8.jpg)
 
 • Drawer Content
+
 ![drawerContent](https://user-images.githubusercontent.com/83909096/186800385-8ce2452e-d5e2-41f1-bb35-57a5b4096c6c.jpg)
 
 • news screen
+
 ![news screen](https://user-images.githubusercontent.com/83909096/186800443-e0740415-df9d-4fac-8680-c1bc5462f70b.jpeg)
 
 • descriptive news screen
+
 ![descriptive news screen](https://user-images.githubusercontent.com/83909096/186800536-0a164903-e27a-4c91-a0e9-2ec8fc7df1d5.jpeg)
+
+## and some more screen, you can view them on the app.
